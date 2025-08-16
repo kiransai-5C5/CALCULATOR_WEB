@@ -6,7 +6,7 @@ It supports basic arithmetic operations like addition, subtraction, multiplicati
 ---
 
 ## 🌐 Live Demo
-🔗 **[Click here to try the app]()**
+🔗 **[Click here to try the app](https://kiransai-5c5.github.io/CALCULATOR_WEB/)**
 
 ## 🚀 Features
 - Perform basic arithmetic operations (+, -, *, /, %)
